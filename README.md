@@ -1,4 +1,4 @@
-![logo](https://github.com/Dancunrandy/Dancunrandy/commit/14c95b2113875084aff8c1fc34a8e52821e51466#diff-133de3402df1bc6f5d561ccdb5497a40cb5ddcdf187da7832499e75ca90f840d)
+![logo](https://github.com/Dancunrandy/Dancunrandy/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Daniel Mutie</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 <img align="right " alt="coding" width= " 400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
