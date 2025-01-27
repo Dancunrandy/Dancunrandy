@@ -1,30 +1,27 @@
-
-![logo](https://github.com/Dancunrandy/Dancunrandy/blob/main/github-header-image.png)
-
-<h1 align="center">Let's Code Together</h1>
+# <h1 align="center">Let's Code Together</h1>
 <h3 align="center">A Passionate Fullstack Developer from Kenya</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dancunrandy&label=Profile%20views&color=0e75b6&style=flat" alt="dancunrandy" />
 </p>
 
+---
+
+### 🚀 About Me:
 - 🔭 I’m currently working on [Genztech](https://genztech-delta.vercel.app/)
-- 🌱 I’m currently learning **Python, Data Analytics**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Dancunrandy)
-- 💬 Ask me about **JavaScript, React, and Ruby**
-- 📫 Reach me at **dancunrandy@gmail.com**
-- ⚡ Fun fact: **I am funny**
+- 🌱 I’m learning **Python** and exploring **Data Analytics**.
+- 💬 Ask me about **JavaScript, React**, and **Ruby**.
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Dancunrandy).
+- 📫 Reach me at **dancunrandy@gmail.com**.
+- ⚡ Fun fact: **I am funny and love to make things work!**
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dancunrandy" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://twitter.com/dancunrandy" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" width="40" height="40"/></a>
-  <a href="https://www.buymeacoffee.com/dancunrandj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" width="40" height="40"/></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 📚 Technologies & Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -45,10 +42,19 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dancunrandy&show_icons=true&locale=en&layout=compact" alt="dancunrandy" />
+---
+
+### 📡 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/dancunrandy" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://twitter.com/dancunrandy" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="twitter" width="40" height="40"/></a>
+  <a href="https://www.buymeacoffee.com/dancunrandj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee" width="40" height="40"/></a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dancunrandy&show_icons=true&locale=en" alt="dancunrandy" />
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dancunrandy&show_icons=true&theme=radical" alt="dancunrandy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dancunrandy&show_icons=true&theme=radical" alt="dancunrandy" />
 </p>
