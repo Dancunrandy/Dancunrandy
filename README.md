@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋
-<h3 align="center">I am Dancunrandy, a Fullstack Developer with a Passion for Building and Innovating 💻</h3>
+<h3 align="center">I am Daniel Mutie, a Fullstack Developer with a Passion for Building and Innovating 💻</h3>
 
 <p align="center">
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
