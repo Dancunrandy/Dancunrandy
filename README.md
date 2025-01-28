@@ -14,7 +14,7 @@
 ### 🚀 About Me:
 - 🔭 I’m currently working on [**Genztech**](https://genztech-delta.vercel.app/), a cutting-edge platform aimed at simplifying tech for the Gen Z community.
 - 🌱 I'm diving into **Python** and exploring the world of **Data Analytics** to enhance my backend skills.
-- 💬 Ask me about **JavaScript**, **React**, and **Ruby** — I’m always eager to talk code!
+- 💬 Ask me about **JavaScript**, **React**, and **Ruby on Rails** — I’m always eager to talk code!
 - 📫 Reach me at: **dancunrandy@gmail.com**
 - 🏆 Recently achieved: [Link to any recent achievement, such as a hackathon win or notable project completion]
 
