@@ -12,11 +12,11 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on [**Genztech**](https://genztech-delta.vercel.app/), a cutting-edge platform aimed at simplifying tech for the Gen Z community.
+- 🔭 I’m currently working on [**Jafema-Collections**](to be deployed), an ecommerce site that you can purchase clothes , hats and shoes for both gender.
 - 🌱 I'm diving into **Python** and exploring the world of **Data Analytics** to enhance my backend skills.
 - 💬 Ask me about **JavaScript**, **React**, and **Ruby on Rails** — I’m always eager to talk code!
 - 📫 Reach me at: **dancunrandy@gmail.com**
-- 🏆 Recently achieved: [Link to any recent achievement, such as a hackathon win or notable project completion]
+- 🏆 Recently achieved: [https://www.linkedin.com/posts/moringa-school_intasendhackathon-fintechrevolution-innovationunleashed-activity-7201107547930406912-tHKT?utm_source=share&utm_medium=member_desktop]
 
 ---
 
@@ -38,10 +38,13 @@
 #### [**GenzTech**](https://genztech-delta.vercel.app/)
 A user-centric platform designed to empower Gen Z through technology. Check out the live project and see my work in action!
 
-#### [**Project 2**](#)  
-Short description about the project, what tech was used, and what problems were solved.
+#### [**Farmart**](https://farmart-delta.vercel.app/)  
+Backend development for a local agricultural platform using JavaScript, React, and Ruby on Rails, focusing on efficient database management and system optimization.
 
----
+#### [**Charity App**](https://charity-application.vercel.app/)  
+Built a donation management platform with optimized data models using JavaScript, React, and Ruby on Rails. Enhanced app performance through rigorous testing and TDD practices.
+
+
 
 ### 📡 Get in Touch:
 <p align="left">
