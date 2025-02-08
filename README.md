@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on [**Jafema-Collections**](to be deployed), an ecommerce site that you can purchase clothes , hats and shoes for both gender.
+- 🔭 I’m currently working on [**Jafema-Collections**](https://jafema-collections.vercel.app/), an ecommerce site that you can purchase clothes , hats and shoes for both gender.
 - 🌱 I'm diving into **Python** and exploring the world of **Data Analytics** to enhance my backend skills.
 - 💬 Ask me about **JavaScript**, **React**, and **Ruby on Rails** — I’m always eager to talk code!
 - 📫 Reach me at: **dancunrandy@gmail.com**
@@ -35,6 +35,8 @@
 ---
 
 ### 🏅 Projects Portfolio:
+#### [**Jafema-Collections**](https://jafema-collections.vercel.app/)
+This app is a simple clothing store built with React and Firebase. It lets users browse product collections, sign in (using Google Auth), and complete purchases via Stripe. The app uses Redux for state management and Firestore for data storage. Check out the live project and see my work in action!
 #### [**GenzTech**](https://genztech-delta.vercel.app/)
 A user-centric platform designed to empower Gen Z through technology. Check out the live project and see my work in action!
 
