@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniel%20Mutie&fontSize=60&fontColor=fff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Daniel%20Mutie&fontSize=60&fontColor=fff&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <h1 align="center">Fullstack Developer | Innovator | Problem Solver 💻</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dynamic%20Profile%20Views-0e75b6?logo=git&labelColor=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/dancunrandy/github-profile-views-counter/main/svg/profile/total.svg" alt="Total Profile Views" />
   <a href="https://www.linkedin.com/in/dancunrandy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/dancunrandy"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" alt="Twitter" /></a>
 </div>
@@ -90,5 +90,5 @@ Ready to collaborate or discuss your next big idea? Reach out!
 
 <div align="center">
   <p><em>"Code is poetry, and I’m here to write the next masterpiece."</em></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" alt="Footer Banner" />
 </div>
