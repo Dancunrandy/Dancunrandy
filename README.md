@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dynamic%20Profile%20Views-0e75b6?logo=git&labelColor=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/dancunrandy/github-profile-views-counter/main/svg/profile/total.svg" alt="Total Profile Views" />
   <a href="https://www.linkedin.com/in/dancunrandy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/dancunrandy"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" alt="Twitter" /></a>
 </div>
